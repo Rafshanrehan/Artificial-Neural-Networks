@@ -4,6 +4,7 @@ MNIST Neural Network with PyTorch
 Project Overview
 
 This project implements a simple feed-forward neural network to classify handwritten digits from the MNIST dataset using PyTorch.
+(Note: Additional practice files such as Ann1 and Ann2 to understand activation functions, backprop to learn backards propagation, etc. are also uploaded to show progression before final project file). 
 
 The goal of this exercise was to understand the core workflow of training neural networks, including:
 
